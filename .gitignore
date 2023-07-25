@@ -46,7 +46,8 @@ flamingoclient/Bin/Logs/
 *.user
 *.dep
 *.map
-
+bin/
+build/
 .DS_Store
 .vscode/
 flamingoAndroid/.DS_Store
@@ -68,3 +69,4 @@ flamingoclient/Source/.DS_Store
 flamingoclient/Source/net/.DS_Store
 flamingoserver/.DS_Store
 flamingoserver/.vs/
+flamingoserver/bin/chatserver
